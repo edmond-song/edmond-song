@@ -1,4 +1,6 @@
-## This is my resume
+## Edmond Song
+## Major: Computer Science and Mathematics
+## Expected graduation date: April 2028
 
 <!--
 **edmond-song/edmond-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
