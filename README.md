@@ -1,4 +1,4 @@
-## Hi there!!
+## This is my resume
 
 <!--
 **edmond-song/edmond-song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
